@@ -13,14 +13,10 @@ border-style: solid;
 border-width: 10px;
 }
 
-.Blurb {
-  text-align: center;
-  margin: auto;
-}
-
 a{
 color: #daa520;
 }
+
 a:hover{
 color: #ff0000;
 }
